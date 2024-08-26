@@ -1,2 +1,2 @@
 # presentation-slides
-All presentation slides are here.
+All materials about events are stored under this directory.
